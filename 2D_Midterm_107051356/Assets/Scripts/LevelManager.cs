@@ -10,7 +10,7 @@ public class LevelManager : MonoBehaviour
 
     public void BackMenu()
     {
-        SceneManager.LoadScene("選單");
+        SceneManager.LoadScene(0);
     }
 
     public void Quit()
