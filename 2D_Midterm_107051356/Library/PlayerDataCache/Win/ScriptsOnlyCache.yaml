@@ -10,8 +10,6 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
-    - UnityEditor.Tilemaps.GridPaletteBrushes
-    - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.TileDragAndDropManager
     Unity.Rider.Editor.dll:
@@ -714,4 +712,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - "Assets/\u5834\u666F/\u9078\u55AE.unity"
   - "Assets/\u5834\u666F/\u95DC\u5361\u4E00.unity"
-  playerPath: D:/88693/Desktop/Midterm_2D/ASIA_2D_Midterm_107051356/2D_Midterm_107051356.exe
+  playerPath: D:/88693/Desktop/Midterm_2D/ASIA_2D_Midterm_107051356/Exe/2D_Midterm_107051356.exe
